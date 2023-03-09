@@ -1,0 +1,51 @@
+
+<?xml>
+<Task>
+<id>1</id>
+<Subject>Купить хлеб</Subject>
+<Author>Ольга</Author>
+<Adding time>11:51</Adding time>
+<Adding date>09:03:2023</Adding date>
+<Deadline>07.03</Deadline>
+<Priority>приоритет высокий</Priority>
+</Task></xml>
+<?xml>
+<Task>
+<id>2</id>
+<Subject>Задача 1</Subject>
+<Author>неизвестный</Author>
+<Adding time>11:51</Adding time>
+<Adding date>09:03:2023</Adding date>
+<Deadline>бессрочно</Deadline>
+<Priority>приоритет не установлен</Priority>
+</Task></xml>
+<?xml>
+<Task>
+<id>3</id>
+<Subject>Сделать домашнее задание</Subject>
+<Author>Ольга</Author>
+<Adding time>11:51</Adding time>
+<Adding date>09:03:2023</Adding date>
+<Deadline>10.03</Deadline>
+<Priority>приоритет высокий</Priority>
+</Task></xml>
+<?xml>
+<Task>
+<id>4</id>
+<Subject>Купить подарки</Subject>
+<Author>Ольга</Author>
+<Adding time>11:51</Adding time>
+<Adding date>09:03:2023</Adding date>
+<Deadline>08.03</Deadline>
+<Priority>приоритет средний</Priority>
+</Task></xml>
+<?xml>
+<Task>
+<id>5</id>
+<Subject>Позвонить в химчистку</Subject>
+<Author>Ольга</Author>
+<Adding time>11:51</Adding time>
+<Adding date>09:03:2023</Adding date>
+<Deadline>10.03</Deadline>
+<Priority>приоритет низкий</Priority>
+</Task></xml>
